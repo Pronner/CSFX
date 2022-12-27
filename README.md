@@ -1,2 +1,62 @@
 # CSFX
-CSFX, a .NET Library created to serve interface designing on Forms using CSS.
+CSFX is a .NET Library created to serve interface designing on Forms using CSS.
+
+You'll be able to create compex, basic, and intuitive designs for your .NET Application using CSS. However, there are a few custom properties that allow you to change some parts of the form, and the form functionality.
+
+- **Custom Properties:**
+```
+csfx-form-text,
+csfx-doublebuffered,
+csfx-form-controls,
+csfx-form-showicon,
+csfx-form-alwaysontop,
+csfx-form-showintaskbar,
+csfx-form-borderstyle,
+text,
+shadow,
+border-size,
+size (effects both height and width)
+```
+
+- **All Properties:**
+```
+background-color,
+color,
+font-size,
+size,
+height,
+width,
+padding,
+margin,
+cursor,
+border-size,
+border-color,
+border-radius,
+shadow,
+text,
+text-align,
+shadow,
+border-size,
+size (effects both height and width),
+csfx-form-text,
+csfx-doublebuffered,
+csfx-form-controls,
+csfx-form-showicon,
+csfx-form-alwaysontop,
+csfx-form-showintaskbar,
+csfx-form-borderstyle
+```
+
+We are slowly adding more and more properties, and we are planning on creating custom controls (Buttons, Panels, Gradient Buttons, Gradient Panels, etc) for people to make the form look more modern in your own way.
+
+## Open Source
+
+This project is open-source, and will be free-to-use once published. You are able to modify the source code and use it personally. However, if you modify the source code and publicly publish it, it will be considered **intolerant of our rules & license**.
+
+We currently do not use **any license**, meaning you do not have any rights other than the things we mention.
+
+## Rights
+
+You are able to & allowed to:
+- Modify the source code and use it personally.
+- Use the CSFX Library for personal use, commercial use.
