@@ -1,4 +1,4 @@
-# CSFX
+# CSFX (The .NET CSS Designing Library)
 CSFX is a .NET Library created to serve interface designing on Forms using CSS.
 
 You'll be able to create compex, basic, and intuitive designs for your .NET Application using CSS. However, there are a few custom properties that allow you to change some parts of the form, and the form functionality.
