@@ -82,6 +82,6 @@ You are able to & allowed to:
 - Modify the source code and use it personally.
 - Use the CSFX Library for personal use, commercial use.
 - Share it with friends and/or family.
-- Use **some parts** of the code for your own benefit, with credit.
+- Use **some parts** of the code for your own benefit, with credit due.
 
 Whatever was not stated here, is something you are not allowed to do with CSFX. However, if you're curious about something, feel free to create an issue or send a direct message on my [Discord](https://discord.com/users/753278347697455174).
